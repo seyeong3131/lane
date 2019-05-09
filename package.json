@@ -1,0 +1,17 @@
+{
+  "name": "team-project-team10",
+  "version": "1.0.0",
+  "description": "Multi Location based gathering place recommendation service.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html": "^1.0.0"
+  }
+}
